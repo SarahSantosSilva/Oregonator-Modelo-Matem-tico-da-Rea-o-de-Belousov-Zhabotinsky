@@ -8,11 +8,16 @@ A reação de Belousov-Zhabotinsky é conhecida por seu comportamento oscilatór
 
 Para melhor entendimento dos objetivos e reultados obtidos recomenda-se a leitura do trabalho escrito "Projeto_Final_Equaçoes_Dif_Oregonator" em formato PDF. Em anexo segue também o arquivo "Calculos_Semi_Analitica" contendo todo o processo de cálculo para o desenvolvimento de uma solução semi-analítica.
 
+## Execução od projeto:
+
 Para a execução dos códigos são necessárias as seguintes bibliotecas:
 
 Os scripts independem de dados adicionais.
 
-Referências:
+## Referências:
+
 [1] **Field, R. J., Köros, E., Noyes, R. M.**, Oscillations in Chemical Systems. II. Thorough Analysis of Temporal Oscillation in the Bromate-Cerium-Malonic Acid System, _Journal of the American Chemical Society_, 1972, v.94, n.25, p.8649-8664. DOI: 10.1021/ja00780a001
+
 [2] **Field, R. J., Noyes, R. M.**, Oscillations in chemical systems. IV. Limit cycle behavior in a model of a real chemical reaction, _The Journal of Chemical Physics_, 1974, v.60, n.5, p.1877-1884. DOI: http://dx.doi.org/10.1063/1.1681288.
+
 [3] **Misra, I., Ramanathan, V.**, Belousov-Zhabotinsky reaction: an open-source approach, _Proceedings of the Indian National Science Academy_, 2022, v.88, p.243-249, DOI: https://doi.org/10.1007/s43538-022-00081-6.
