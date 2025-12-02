@@ -11,6 +11,10 @@ Para melhor entendimento dos objetivos e reultados obtidos recomenda-se a leitur
 ## Execução od projeto:
 
 Para a execução dos códigos são necessárias as seguintes bibliotecas:
+- numpy
+- matplotlib
+- mpl_toolkits
+- scipy
 
 Os scripts independem de dados adicionais.
 
