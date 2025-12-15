@@ -8,7 +8,7 @@ A reação de Belousov-Zhabotinsky é conhecida por seu comportamento oscilatór
 
 Para melhor entendimento dos objetivos e reultados obtidos recomenda-se a leitura do trabalho escrito "Projeto_Final_Equaçoes_Dif_Oregonator" em formato PDF. Em anexo segue também o arquivo "Calculos_Semi_Analitica" contendo todo o processo de cálculo para o desenvolvimento de uma solução semi-analítica.
 
-## Execução od projeto:
+## Execução do projeto:
 
 Para a execução dos códigos são necessárias as seguintes bibliotecas:
 - numpy
